@@ -1,5 +1,4 @@
-# Abaikan folder dataset
-dataset/
+
 
 # (Opsional) Abaikan folder lain yang tidak perlu di-upload
 .venv/
