@@ -6,3 +6,5 @@ scikit-learn
 pycocotools
 matplotlib
 numpy
+seaborn
+streamlit
