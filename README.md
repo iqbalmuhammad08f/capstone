@@ -10,7 +10,7 @@ Pastikan Anda memiliki **Python 3.8+** yang sudah terinstal di sistem Anda.
 
 1.  **Clone Repository:**
     ```bash
-    git clone <url-repo>
+    git clone https://github.com/iqbalmuhammad08f/NutriScan-MBG
     ```
 
 2.  **Buat Virtual Environment (opsional):**
